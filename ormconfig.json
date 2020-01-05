@@ -1,0 +1,7 @@
+{
+    "type": "sqljs",
+    "entities": [
+        "dist/product/product.js"
+    ],
+    "synchronize": true
+}
